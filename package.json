@@ -1,0 +1,19 @@
+{
+  "name": "ichat",
+  "version": "1.0.0",
+  "description": "ichat is a real-time chat application built using **Electron.js**, **Firebase**, and **Web Technologies**. It allows multiple users to chat simultaneously, with messages stored in Firebase Firestore and updated in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^34.0.2"
+  },
+  "devDependencies": {
+    "electron": "^34.0.2"
+  }
+}
